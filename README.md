@@ -47,6 +47,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 # TRUTH TABLE
 
+![Screenshot 2024-12-22 165950](https://github.com/user-attachments/assets/7e5753ae-2d50-46b0-b30d-77209a3bad91)
+
 
 # RTL LOGIC UP COUNTER
 
